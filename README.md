@@ -22,3 +22,14 @@ Página web dividida en categorías de acuerdo a las necesidades del usuario:
 *Autoparte (repuesto) en cuestión
 
 Backend:
+Gestor de Base de Datos:
+PostgreSQL
+
+Lenguaje de Programación:
+PHP
+
+Framework:
+Laravel
+
+Arquitectura:
+MVC
